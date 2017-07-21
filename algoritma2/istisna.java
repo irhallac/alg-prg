@@ -1,5 +1,3 @@
-package labexercises;
-
 /**
  *
  * @author Ibrahim R Hallac <irhallac at firat.edu.tr>
