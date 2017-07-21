@@ -1,7 +1,7 @@
-/**
- *
- * @author ibrahim r. hallaç
- */
+-/**
+- *
+- * @author Ibrahim R Hallac <irhallac at firat.edu.tr>
+- */
 
 public class merhaba {
 
