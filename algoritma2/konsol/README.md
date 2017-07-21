@@ -1,4 +1,4 @@
-java merhaba param1 param2 paramN
+# java merhaba param1 param2 paramN
 
 
 
