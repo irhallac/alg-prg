@@ -1,6 +1,6 @@
 /**
  *
- * @author sentis
+ * @author ibrahim
  */
 
 public class merhaba {
