@@ -21,3 +21,7 @@ ogrenci7 sinav=88
 **dosyaOku.java**
 
 Bir önceki dosyadan tüm bilgileri satır satır okuyarak sınıf ortalamasını en düşük ve en yüksek notu bulan Java programı, (String satırın parse edilmesi gerekiyor)
+
+**dosyaOlustur.java**
+
+Klavyeden giriş yoluyla istenilen sayıda dosya oluşturur ve belirtilen klasördeki "a", "b" veya "c" ile başlayan dosyaların isimlerini listeyen program.
