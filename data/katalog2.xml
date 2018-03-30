@@ -1,0 +1,146 @@
+<katalog>
+
+    <kitap>
+        <isim> Elektrik Devreleri Laboratuvarı Deneyleri </isim>
+        <yazar> Avni Morgül </yazar>
+        <tur> Bilim-Mühendislik </adres>
+        <yayınevi> FSM VAKIF ÜNİVERSİTESİ YAYINLARI </yayınevi>
+            <detay>
+                  <ISBN> 6058626089 </ISBN>
+                  <tarih> 2016-08-26  </tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Aman Piyasalar</isim>
+        <yazar>E. Ahmet Tonak</yazar>
+        <tur>Ekonomi</tur>
+        <yayınevi>KALKEDON YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>9944115216</ISBN>
+                  <tarih>2007-11-09</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Kapitalizm Marksizm ve İslam</isim>
+        <yazar>Jacques Austruy</yazar>
+        <tur>Ekonomi</tur>
+        <yayınevi>İLGİ YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>9944978637</ISBN>
+                  <tarih>2010-05-31</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Mutlu Evlilik Psikolojisi</isim>
+        <yazar>Prof. Dr. Nevzat Tarhan</yazar>
+        <tur>Psikoloji</tur>
+        <yayınevi>TİMAŞ YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>6050822915</ISBN>
+                  <tarih>2017-11-16</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Mesnevi Terapi</isim>
+        <yazar>Prof. Dr. Nevzat Tarhan</yazar>
+        <tur>Psikoloji</tur>
+        <yayınevi>TİMAŞ YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>6050802719</ISBN>
+                  <tarih>2018-01-16</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Hukukun Temel Kavramları</isim>
+        <yazar>Kemal Gözler</yazar>
+        <tur>Hukuk</tur>
+        <yayınevi>EKİN KİTABEVİ YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>6053275015</ISBN>
+                  <tarih>2017-08-01</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman</isim>
+        <yazar>Jostein Gaarder</yazar>
+        <tur>Felsefe</tur>
+        <yayınevi>PAN YAYINCILIK </yayınevi>
+            <detay>
+                  <ISBN>9758434572</ISBN>
+                  <tarih>2017-02-27</tarih>
+            </detay>
+    </kitap>
+
+    <kitap>
+        <isim>Prens</isim>
+        <yazar>Niccolo Machiavelli</yazar>
+        <tur>Felsefe</tur>
+        <yayınevi>CAN YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>9750709074</ISBN>
+                  <tarih>2018-02-09</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>Mimar Sinan Mimarideki Osmanlı Mührü</isim>
+        <yazar>Yavuz Bahadıroğlu</yazar>
+        <tur>Sanat</tur>
+        <yayınevi>PANAMA YAYINCILIK</yayınevi>
+            <detay>
+                  <ISBN>6055143879</ISBN>
+                  <tarih>2014-12-18</tarih>
+            </detay>
+    </kitap>
+
+    <kitap>
+        <isim>Sanat ve Felsefe</isim>
+        <yazar>Dücane Cündioğlu</yazar>
+        <tur>Sanat</tur>
+        <yayınevi>KAPI YAYINLARI</yayınevi>
+            <detay>
+                  <ISBN>6054683581</ISBN>
+                  <tarih>2016-11-15</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim>İlber Ortaylı Seyahatnamesi</isim>
+        <yazar>Prof. Dr. İlber Ortaylı</yazar>
+        <tur>Turizm-Gezi</tur>
+        <yayınevi>KRONİK KİTAP</yayınevi>
+            <detay>
+                  <ISBN>6058301153</ISBN>
+                  <tarih>2018-03-20</tarih>
+            </detay>
+    </kitap>
+
+    <kitap>
+        <isim>Alex de Souza</isim>
+        <yazar>Marcos Eduardo Neves</yazar>
+        <tur>Spor</tur>
+        <yayınevi>İNDİGO KİTAP</yayınevi>
+            <detay>
+                  <ISBN>6059144742</ISBN>
+                  <tarih>2017-01-31</tarih>
+            </detay>
+    </kitap>
+    
+    <kitap>
+        <isim> Genel Coğrafya </isim>
+        <yazar> Emin Atasoy  </yazar>
+        <tur> Genel-Coğrafya </adres>
+        <yayınevi> EZGİ KİTABEVİ  </yayınevi>
+            <detay>
+                  <ISBN> 9758606962 </ISBN>
+                  <tarih> 2010-01-01  </tarih>
+            </detay>
+    </kitap>
+    
+<katalog>
