@@ -30,7 +30,6 @@ class Document {
 
 //kişi sınıfı
 class Person {
-
     String name;
     String surname;
     String username;
