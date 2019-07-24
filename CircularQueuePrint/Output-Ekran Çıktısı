@@ -1,0 +1,48 @@
+BELGELER YAZICI KUYRUĞUNA ALINIYOR 
+
+Dosya01 (4) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Dosya02 (6) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Dosya03 (8) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+
+ YAZDIRMA İŞLEMİ BAŞLADI 
+
+2 sn bekletiliyor
+Dosya01->4 sayfanın 3 adedi yazdırıldı. Kalan 1 sayfa kuyruğa ekleniyor
+Dosya01 (1) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Kuyruktaki Belgeler: Dosya02 Dosya03 Dosya01 
+
+4 sn bekletiliyor
+Dosya02->6 sayfanın 3 adedi yazdırıldı. Kalan 3 sayfa kuyruğa ekleniyor
+Dosya02 (3) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Kuyruktaki Belgeler: Dosya03 Dosya01 Dosya02 
+
+5 sn bekletiliyor
+Dosya03->8 sayfanın 3 adedi yazdırıldı. Kalan 5 sayfa kuyruğa ekleniyor
+Dosya03 (5) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Kuyruktaki Belgeler: Dosya01 Dosya02 Dosya03 
+
+1 sn bekletiliyor
+Dosya01 için yazdırma işlemi tamamlandı
+Kuyruktaki Belgeler: Dosya02 Dosya03 
+
+2 sn bekletiliyor
+Dosya02 için yazdırma işlemi tamamlandı
+Kuyruktaki Belgeler: Dosya03 
+
+3 sn bekletiliyor
+Dosya03->5 sayfanın 3 adedi yazdırıldı. Kalan 2 sayfa kuyruğa ekleniyor
+Dosya03 (2) adet sayfa Kuyruğa ekleniyor
+2 sn bekletiliyor
+Kuyruktaki Belgeler: Dosya03 
+
+1 sn bekletiliyor
+Dosya03 için yazdırma işlemi tamamlandı
+Kuyruktaki Belgeler: 
+
+Kuyruk Boş!
