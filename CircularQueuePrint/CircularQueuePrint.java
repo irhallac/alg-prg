@@ -164,7 +164,7 @@ public class CircularQueuePrint {
 
         System.out.println("\n YAZDIRMA İŞLEMİ BAŞLADI \n");
         
-        //quiz sorusu
+        //quiz sorusu, max=3 sayfa yazdır ve kalan sayfaları kuyruğa ekle
         dk.quiz_question(3);
     }
 
