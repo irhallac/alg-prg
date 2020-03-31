@@ -47,6 +47,17 @@ public class Giris {
 }
 
 //Adım-7
+public class Giris {
+
+    public void selamGonder(String isim) {
+        System.out.println("Selam " + isim);
+    }
+
+    public static void main(String args[]) {
+        Giris g2 = new Giris();
+        g2.selamGonder("Ali");
+    }
+}
 
 //Adım-8
 public class Giris {
