@@ -1,3 +1,9 @@
+//Adım-1
+
+
+//Adım-2
+
+
 //Adım-3
 public class Giris {
 
@@ -39,3 +45,18 @@ public class Giris {
         selamGonder("Ali");
     }
 }
+
+//Adım-7
+
+//Adım-8
+public class Giris {
+
+    public static void selamGonder(String isim) {
+        System.out.println("Selam " + isim);
+    }
+
+    public static void main(String args[]) {
+        selamGonder("Gamze");
+    }
+}
+
