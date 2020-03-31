@@ -1,8 +1,3 @@
-//Adım-1
-
-
-//Adım-2
-
 
 //Adım-3
 public class Giris {
