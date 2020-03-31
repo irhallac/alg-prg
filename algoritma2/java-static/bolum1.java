@@ -65,4 +65,3 @@ public class Giris {
         selamGonder("Gamze");
     }
 }
-
