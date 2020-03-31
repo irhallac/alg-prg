@@ -1,3 +1,4 @@
+//Adım-3
 public class Giris {
 
     int derece;
@@ -7,8 +8,7 @@ public class Giris {
     }
 }
 
-
-
+//Adım-4
 public class Giris {
     int derece;
     public static void main(String args[]) {
@@ -18,11 +18,24 @@ public class Giris {
     }
 }
 
-
+//Adım-5
 public class Giris {
     static int derece;
     public static void main(String args[]) {
         derece = 5;
         System.out.println("Bugün hava " + derece + "derece");
+    }
+}
+
+
+//Adım-6
+public class Giris {
+
+    public void selamGonder(String isim) {
+        System.out.println("Selam " + isim);
+    }
+
+    public static void main(String args[]) {
+        selamGonder("Ali");
     }
 }
