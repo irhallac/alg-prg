@@ -2,7 +2,7 @@
 
 Bir markette yer alan her türlü ürünü temsil etmek üzere “ÜRÜN” sınıfı tanımlanmıştır. Bu sınıftan türetilen Meyve ve İçecek sınıfları bulunmaktadır. Her sınıf için gerekli değişkenler şekilde verilen sınıf diyagramında verilmiştir.
 
-![Image description](link-to-image)
+![Sınıf Diyagramı](uml1.png)
 
  
 
