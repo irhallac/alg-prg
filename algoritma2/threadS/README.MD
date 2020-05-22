@@ -1,3 +1,3 @@
-*THREADLER*
+<b> THREAD'LER <b>
 BÖLÜM1
 BÖLÜM2
