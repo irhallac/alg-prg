@@ -1,3 +1,3 @@
-<b> THREAD'LER <b>
-BÖLÜM1
-BÖLÜM2
+<b> THREAD'LER <br>
+<br> BÖLÜM1
+<br> BÖLÜM2
